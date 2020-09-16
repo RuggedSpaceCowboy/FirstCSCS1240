@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T14:16:03.956Z" agent="5.0 (Windows)" etag="luIS1WRpoBwR0-Axf-CJ" version="13.6.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-16T13:01:33.895Z" agent="5.0 (Windows)" etag="7a_zlfT4bXmEnmJlV2ZD" version="13.7.1" type="github" pages="2">
   <diagram id="pdx_I-lk8hNeIOO83BkR" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -589,29 +589,80 @@
         <mxCell id="bUMOQ2hdZieQPXiCKyZ--17" value="Expression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1780" y="482.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1u4aHgrcIZjNRTMB2p_N-1" value="indexing into an array [ ]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="1u4aHgrcIZjNRTMB2p_N-1" value="indexing into an array [ ]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1990" y="490" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1u4aHgrcIZjNRTMB2p_N-2" value="&lt;div&gt;datatypes&lt;/div&gt;&lt;div&gt;1.amount of memory/storage required&lt;/div&gt;&lt;div&gt;2. how it&#39;s organized for a value&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="1u4aHgrcIZjNRTMB2p_N-2" value="&lt;div&gt;datatypes&lt;/div&gt;&lt;div&gt;1.amount of memory/storage required&lt;/div&gt;&lt;div&gt;2. how it&#39;s organized for a value&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1950" y="648.75" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1u4aHgrcIZjNRTMB2p_N-3" value="&lt;div&gt;metadata:data about data&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="636.25" width="160" height="20" as="geometry" />
+        <mxCell id="1u4aHgrcIZjNRTMB2p_N-3" value="&lt;div&gt;metadata:data about data&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="1980" y="613.75" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1u4aHgrcIZjNRTMB2p_N-4" value="RISC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="1u4aHgrcIZjNRTMB2p_N-4" value="RISC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2270" y="482.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1u4aHgrcIZjNRTMB2p_N-5" value="CISC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="1u4aHgrcIZjNRTMB2p_N-5" value="CISC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2270" y="582.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1u4aHgrcIZjNRTMB2p_N-6" value="Instruction Set Computer (ISC)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="1u4aHgrcIZjNRTMB2p_N-6" value="Instruction Set Computer (ISC)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2210" y="425" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1u4aHgrcIZjNRTMB2p_N-7" value="Complex" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="1u4aHgrcIZjNRTMB2p_N-7" value="Complex" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2260" y="562.5" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1u4aHgrcIZjNRTMB2p_N-8" value="Reduced" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="1u4aHgrcIZjNRTMB2p_N-8" value="Reduced" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2255" y="460" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u7FBzvVEzURX8mIG_11e-1" value="&lt;div&gt;declaration&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="845" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u7FBzvVEzURX8mIG_11e-2" value="things[2]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="830" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u7FBzvVEzURX8mIG_11e-3" value="indexing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="770" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u7FBzvVEzURX8mIG_11e-4" value="&lt;div&gt;metadata: data about data&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="790" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u7FBzvVEzURX8mIG_11e-5" value="&lt;div&gt;datatype&lt;/div&gt;&lt;div&gt;1.amount of memory/storage required for a value&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2.how it&#39;s organized&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="860" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u7FBzvVEzURX8mIG_11e-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1735" y="845" as="sourcePoint" />
+            <mxPoint x="1820" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1780" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7FBzvVEzURX8mIG_11e-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1735" y="855" as="sourcePoint" />
+            <mxPoint x="1820" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1820" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7FBzvVEzURX8mIG_11e-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1830" y="837.5" as="sourcePoint" />
+            <mxPoint x="2000" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1940" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7FBzvVEzURX8mIG_11e-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="850" as="sourcePoint" />
+            <mxPoint x="1980" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1920" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
